@@ -14,3 +14,7 @@ class C
 {
 System.out.println("Hello World");
 }
+class D
+{
+System.out.println("Hello World");
+}
