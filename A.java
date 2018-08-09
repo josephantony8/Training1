@@ -18,3 +18,7 @@ class D
 {
 System.out.println("Hello World");
 }
+class E
+{
+System.out.println("Hello World");
+}
