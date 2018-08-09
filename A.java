@@ -10,4 +10,7 @@ class B
 {
 System.out.println("Hello World");
 }
-
+class C
+{
+System.out.println("Hello World");
+}
